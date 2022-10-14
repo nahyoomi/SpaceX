@@ -1,2 +1,2 @@
 # SpaceX
-Single page application SpaceX 
+Application using SpaceX API 
