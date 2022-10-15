@@ -13,10 +13,12 @@
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "date-fns": "^2.29.3",
+    "dayjs": "^1.11.5",
     "framer-motion": "^6.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.2",
     "reacticons": "^0.0.1"
   },
   "devDependencies": {
